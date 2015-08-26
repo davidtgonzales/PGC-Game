@@ -1,7 +1,7 @@
-DNA Sequecing Game
-Direct Squeak the Mouse to get the complement of the DNA base that Dr. Dee Enay instructs. You get +1 point for every right match and -1 for every wrong match. Time limit is 30 seconds.
-
+#DNA Sequecing Game
 ![](https://github.com/davidtgonzales/PGC-Game/blob/master/images/header.png)
+
+Direct Squeak the Mouse to get the complement of the DNA base that Dr. Dee Enay instructs. You get +1 point for every right match and -1 for every wrong match. Time limit is 30 seconds.
 
 This game requires:
 1. Windows OS (imports winsound for sound effects)
