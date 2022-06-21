@@ -7,7 +7,7 @@ This game requires:
 1. Windows OS (imports winsound for sound effects).
 2. Python 2.7 or higher (http://www.python.org/).
 3. Pygame package for python (http://www.pygame.org/).
-
+4. Chime (https://pypi.org/project/chime/) or Winsound for sound effects.
 To play, download the zip file, unzip, and double click on the "pgc_game.py" file. Make sure that the images folder is in the directory of the python file. Have fun! :) 
 
 -David Gonzales (davidtgonzales@gmail.com)
